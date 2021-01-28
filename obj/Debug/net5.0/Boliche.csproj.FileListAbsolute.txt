@@ -1,0 +1,16 @@
+C:\dev\boliche\bin\Debug\net5.0\Boliche.exe
+C:\dev\boliche\bin\Debug\net5.0\Boliche.deps.json
+C:\dev\boliche\bin\Debug\net5.0\Boliche.runtimeconfig.json
+C:\dev\boliche\bin\Debug\net5.0\Boliche.runtimeconfig.dev.json
+C:\dev\boliche\bin\Debug\net5.0\Boliche.dll
+C:\dev\boliche\bin\Debug\net5.0\ref\Boliche.dll
+C:\dev\boliche\bin\Debug\net5.0\Boliche.pdb
+C:\dev\boliche\obj\Debug\net5.0\Boliche.csprojAssemblyReference.cache
+C:\dev\boliche\obj\Debug\net5.0\Boliche.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\boliche\obj\Debug\net5.0\Boliche.AssemblyInfoInputs.cache
+C:\dev\boliche\obj\Debug\net5.0\Boliche.AssemblyInfo.cs
+C:\dev\boliche\obj\Debug\net5.0\Boliche.csproj.CoreCompileInputs.cache
+C:\dev\boliche\obj\Debug\net5.0\Boliche.dll
+C:\dev\boliche\obj\Debug\net5.0\ref\Boliche.dll
+C:\dev\boliche\obj\Debug\net5.0\Boliche.pdb
+C:\dev\boliche\obj\Debug\net5.0\Boliche.genruntimeconfig.cache
